@@ -100,6 +100,17 @@
 										</div>
 										<br>
 								</script>
+								<h4>Summer Research Projects</h4><br>
+								<script id="review-template">
+									<div class="row">
+        									<div class="column left75">
+          								  <a href="{{cells.Link}}" target="_blank">{{cells.Title}}</a> {{cells.Authors}}. <i>{{cells.Source}}</i> {{cells.Location}} ({{cells.Year}}).
+        </div>
+        <div class="column right25">
+            <a href="{{cells.Download}}" class="btn {{cells.Visibility}}" target="_blank">View</a>
+        </div>
+	</div>
+    <br></script>
 							</div>
 							<script>
 								var reviewTemplate = Handlebars.compile($('#review-template').html());
