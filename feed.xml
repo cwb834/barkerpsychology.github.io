@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Barker Psychology Lab</title>
-    <link href="https://cwb834/barkerpsychology.github.io/feed.xml" rel="self" />
-    <link href="https://cwb834/barkerpsychology.github.io" />
+    <link href="https://cwb834.github.io/barkerpsychology.github.io/feed.xml" rel="self" />
+    <link href="https://cwb834.github.io/barkerpsychology.github.io" />
     <updated>2022-08-08T11:37:17-03:00</updated>
     <author>
         <name>Kenyan Nagy</name>
     </author>
-    <id>https://cwb834/barkerpsychology.github.io</id>
+    <id>https://cwb834.github.io/barkerpsychology.github.io</id>
 
     <entry>
         <title>The Team is Together!</title>
         <author>
             <name>Kenyan Nagy</name>
         </author>
-        <link href="https://cwb834/barkerpsychology.github.io/the-team-is-together-2.html"/>
-        <id>https://cwb834/barkerpsychology.github.io/the-team-is-together-2.html</id>
+        <link href="https://cwb834.github.io/barkerpsychology.github.io/the-team-is-together-2.html"/>
+        <id>https://cwb834.github.io/barkerpsychology.github.io/the-team-is-together-2.html</id>
             <category term="News"/>
 
         <updated>2022-08-08T11:37:17-03:00</updated>
