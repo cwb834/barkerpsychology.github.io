@@ -3,7 +3,7 @@
     <title>Barker Psychology Lab</title>
     <link href="https://barkerpsychology.com/feed.xml" rel="self" />
     <link href="https://barkerpsychology.com" />
-    <updated>2023-02-24T21:17:05-04:00</updated>
+    <updated>2023-02-24T21:31:17-04:00</updated>
     <author>
         <name>Kenyan Nagy</name>
     </author>
@@ -16,8 +16,9 @@
         </author>
         <link href="https://barkerpsychology.com/welcome-msvu-honours-students.html"/>
         <id>https://barkerpsychology.com/welcome-msvu-honours-students.html</id>
+            <category term="News"/>
 
-        <updated>2023-02-24T21:17:05-04:00</updated>
+        <updated>2023-02-24T21:31:17-04:00</updated>
             <summary>
                 <![CDATA[
                     Dr. Barker is pleased to announce three new students who will begin their honours research with the Barker Psychology Lab. Andi Kpolugbo, Natalie Lawy, and Megan Lohnes will be conducting research exploring experiences of queer representation, autism spectrum, and supporting students with oppositional defiant disorder.
