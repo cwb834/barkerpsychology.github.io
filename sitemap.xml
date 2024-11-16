@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://barkerpsychology.com/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://github.com/cwb834/barkerpsychology.github.io.git/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://barkerpsychology.com/</loc>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/</loc>
 </url>
 <url>
-<loc>https://barkerpsychology.com/join-us.html</loc>
-<lastmod>2023-02-24T21:11:50-04:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/join-us.html</loc>
+<lastmod>2024-11-15T18:28:15-06:00</lastmod>
 </url>
 <url>
-<loc>https://barkerpsychology.com/partners.html</loc>
-<lastmod>2022-08-19T12:45:31-03:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/partners.html</loc>
+<lastmod>2022-08-19T09:45:31-06:00</lastmod>
 <image:image>
 <image:loc>{{cells.Image}}</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -21,22 +21,22 @@
 </image:image>
 </url>
 <url>
-<loc>https://barkerpsychology.com/posters.html</loc>
-<lastmod>2023-07-11T17:27:12-03:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/posters.html</loc>
+<lastmod>2023-07-11T14:27:12-06:00</lastmod>
 </url>
 <url>
-<loc>https://barkerpsychology.com/publications.html</loc>
-<lastmod>2022-08-18T15:26:23-03:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/publications.html</loc>
+<lastmod>2022-08-18T12:26:23-06:00</lastmod>
 </url>
 <url>
-<loc>https://barkerpsychology.com/tags/news/</loc>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/tags/news/</loc>
 </url>
 <url>
-<loc>https://barkerpsychology.com/the-team-is-together-2.html</loc>
-<lastmod>2023-02-24T21:32:02-04:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/the-team-is-together-2.html</loc>
+<lastmod>2023-02-24T19:32:02-06:00</lastmod>
 </url>
 <url>
-<loc>https://barkerpsychology.com/welcome-msvu-honours-students.html</loc>
-<lastmod>2023-02-24T21:31:17-04:00</lastmod>
+<loc>https://github.com/cwb834/barkerpsychology.github.io.git/welcome-msvu-honours-students.html</loc>
+<lastmod>2023-02-24T19:31:17-06:00</lastmod>
 </url>
 </urlset>

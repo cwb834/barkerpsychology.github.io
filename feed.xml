@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Barker Psychology Lab</title>
-    <link href="https://barkerpsychology.com/feed.xml" rel="self" />
-    <link href="https://barkerpsychology.com" />
-    <updated>2023-02-24T21:32:02-04:00</updated>
+    <link href="https://github.com/cwb834/barkerpsychology.github.io.git/feed.xml" rel="self" />
+    <link href="https://github.com/cwb834/barkerpsychology.github.io.git" />
+    <updated>2023-02-24T19:32:02-06:00</updated>
     <author>
         <name>Kenyan Nagy</name>
     </author>
-    <id>https://barkerpsychology.com</id>
+    <id>https://github.com/cwb834/barkerpsychology.github.io.git</id>
 
     <entry>
         <title>Welcome MSVU honours students! </title>
         <author>
             <name>Kenyan Nagy</name>
         </author>
-        <link href="https://barkerpsychology.com/welcome-msvu-honours-students.html"/>
-        <id>https://barkerpsychology.com/welcome-msvu-honours-students.html</id>
+        <link href="https://github.com/cwb834/barkerpsychology.github.io.git/welcome-msvu-honours-students.html"/>
+        <id>https://github.com/cwb834/barkerpsychology.github.io.git/welcome-msvu-honours-students.html</id>
             <category term="News"/>
 
-        <updated>2023-02-24T21:31:17-04:00</updated>
+        <updated>2023-02-24T19:31:17-06:00</updated>
             <summary>
                 <![CDATA[
                     Dr. Barker is pleased to announce three new students who will begin their honours research with the Barker Psychology Lab. Andi Kpolugbo, Natalie Lawy, and Megan Lohnes will be conducting research exploring experiences of queer representation, autism spectrum, and supporting students with oppositional defiant disorder.
@@ -35,11 +35,11 @@
         <author>
             <name>Kenyan Nagy</name>
         </author>
-        <link href="https://barkerpsychology.com/the-team-is-together-2.html"/>
-        <id>https://barkerpsychology.com/the-team-is-together-2.html</id>
+        <link href="https://github.com/cwb834/barkerpsychology.github.io.git/the-team-is-together-2.html"/>
+        <id>https://github.com/cwb834/barkerpsychology.github.io.git/the-team-is-together-2.html</id>
             <category term="News"/>
 
-        <updated>2023-02-24T21:32:02-04:00</updated>
+        <updated>2023-02-24T19:32:02-06:00</updated>
             <summary>
                 <![CDATA[
                     After a considerable amount of effort by Dr. Barker, the summer research team has been finalized and literature review will be commencing shortly! There’s no shortage of talent and expertise among the new recruits. Check out the team page to learn about each of our new&hellip;
