@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Barker Psychology Lab",
     "description": "",
-    "home_page_url": "https://github.com/cwb834/barkerpsychology.github.io.git",
-    "feed_url": "https://github.com/cwb834/barkerpsychology.github.io.git/feed.json",
+    "home_page_url": "https://cwb834.github.io/barkerpsychology.gitub.io",
+    "feed_url": "https://cwb834.github.io/barkerpsychology.gitub.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "Kenyan Nagy"
     },
     "items": [
         {
-            "id": "https://github.com/cwb834/barkerpsychology.github.io.git/welcome-msvu-honours-students.html",
-            "url": "https://github.com/cwb834/barkerpsychology.github.io.git/welcome-msvu-honours-students.html",
+            "id": "https://cwb834.github.io/barkerpsychology.gitub.io/welcome-msvu-honours-students.html",
+            "url": "https://cwb834.github.io/barkerpsychology.gitub.io/welcome-msvu-honours-students.html",
             "title": "Welcome MSVU honours students! ",
             "summary": "Dr. Barker is pleased to announce three new students who will begin their honours research with the Barker Psychology Lab. Andi Kpolugbo, Natalie Lawy, and Megan Lohnes will be conducting research exploring experiences of queer representation, autism spectrum, and supporting students with oppositional defiant disorder.",
             "content_html": "<p>Dr. Barker is pleased to announce three new students who will begin their honours research with the Barker Psychology Lab. Andi Kpolugbo, Natalie Lawy, and Megan Lohnes will be conducting research exploring experiences of queer representation, autism spectrum, and supporting students with oppositional defiant disorder. Welcome to the Barker Psychology Lab! </p>",
@@ -25,8 +25,8 @@
             "date_modified": "2023-02-24T19:31:17-06:00"
         },
         {
-            "id": "https://github.com/cwb834/barkerpsychology.github.io.git/the-team-is-together-2.html",
-            "url": "https://github.com/cwb834/barkerpsychology.github.io.git/the-team-is-together-2.html",
+            "id": "https://cwb834.github.io/barkerpsychology.gitub.io/the-team-is-together-2.html",
+            "url": "https://cwb834.github.io/barkerpsychology.gitub.io/the-team-is-together-2.html",
             "title": "The Team is Together!",
             "summary": "After a considerable amount of effort by Dr. Barker, the summer research team has been finalized and literature review will be commencing shortly! There’s no shortage of talent and expertise among the new recruits. Check out the team page to learn about each of our new&hellip;",
             "content_html": "<p><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">After a considerable amount of effort by Dr. Barker, the summer research team has been finalized and literature review will be commencing shortly! There’s no shortage of talent and expertise among the new recruits. Check out the </span><a href=\"https://barkerpsychology.com/team.html\" style=\"font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\">team</a><span style=\"color: var(--text-primary-color); font-family: var(--editor-font-family); font-size: inherit; font-weight: var(--font-weight-normal);\"> page to learn about each of our new members, and don’t forget to check back here to learn all about our research as it develops!</span></p>",

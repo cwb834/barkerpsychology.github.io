@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://github.com/cwb834/barkerpsychology.github.io.git/sitemap.xml
+Sitemap: https://cwb834.github.io/barkerpsychology.gitub.io/sitemap.xml
