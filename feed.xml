@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Barker Psychology Lab</title>
-    <link href="https://cwb834.github.io/barkerpsychology.gitub.io/feed.xml" rel="self" />
-    <link href="https://cwb834.github.io/barkerpsychology.gitub.io" />
+    <link href="https://cwb834.github.io/barkerpsychology.github.io/feed.xml" rel="self" />
+    <link href="https://cwb834.github.io/barkerpsychology.github.io" />
     <updated>2023-02-24T19:32:02-06:00</updated>
     <author>
         <name>Kenyan Nagy</name>
     </author>
-    <id>https://cwb834.github.io/barkerpsychology.gitub.io</id>
+    <id>https://cwb834.github.io/barkerpsychology.github.io</id>
 
     <entry>
         <title>Welcome MSVU honours students! </title>
         <author>
             <name>Kenyan Nagy</name>
         </author>
-        <link href="https://cwb834.github.io/barkerpsychology.gitub.io/welcome-msvu-honours-students.html"/>
-        <id>https://cwb834.github.io/barkerpsychology.gitub.io/welcome-msvu-honours-students.html</id>
+        <link href="https://cwb834.github.io/barkerpsychology.github.io/welcome-msvu-honours-students.html"/>
+        <id>https://cwb834.github.io/barkerpsychology.github.io/welcome-msvu-honours-students.html</id>
             <category term="News"/>
 
         <updated>2023-02-24T19:31:17-06:00</updated>
@@ -35,8 +35,8 @@
         <author>
             <name>Kenyan Nagy</name>
         </author>
-        <link href="https://cwb834.github.io/barkerpsychology.gitub.io/the-team-is-together-2.html"/>
-        <id>https://cwb834.github.io/barkerpsychology.gitub.io/the-team-is-together-2.html</id>
+        <link href="https://cwb834.github.io/barkerpsychology.github.io/the-team-is-together-2.html"/>
+        <id>https://cwb834.github.io/barkerpsychology.github.io/the-team-is-together-2.html</id>
             <category term="News"/>
 
         <updated>2023-02-24T19:32:02-06:00</updated>
